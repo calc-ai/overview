@@ -28,12 +28,10 @@ Math-Solver는 모두의 연구소의 인공지능 혁신학교 AIFFEL과 자연
 - skt/ko-gpt-trinity-1.2B 같은 기존보다 더 large-scale model을 사용하였으면 더 좋은 성능이 나왔을 것
 
 ## ETC
-### PPT
 <img width="1179" alt="스크린샷 2022-03-14 오후 2 12 10" src="https://user-images.githubusercontent.com/59143479/158108826-b849f659-6f59-4bf2-a57d-a19012d65b99.png">
 
-[https://docs.google.com/presentation/d/1wk-5zYk-TWuL3NrTKV7mr5ME7hkPYYXyocmmFU4O9UM/edit#slide=id.gf39b8a728b_0_6](https://docs.google.com/presentation/d/1wk-5zYk-TWuL3NrTKV7mr5ME7hkPYYXyocmmFU4O9UM/edit#slide=id.gf39b8a728b_0_6)
+[튜닙 기업발표 PPT](https://docs.google.com/presentation/d/1wk-5zYk-TWuL3NrTKV7mr5ME7hkPYYXyocmmFU4O9UM/edit#slide=id.gf39b8a728b_0_6)
 
-### [TUNiB BLOG] TUNiB X AIFFEL DKTC & KMWP 컴피티션 in TUNiB
 <img width="989" alt="스크린샷 2022-03-14 오후 2 47 56" src="https://user-images.githubusercontent.com/59143479/158112534-820d11af-d8ab-40c3-84f0-e9363eb0e423.png">
 
-[https://tunib.tistory.com/entry/20220308-TUNiB-x-AIFFEL-DKTC-KMWP-컴피티션](https://tunib.tistory.com/entry/20220308-TUNiB-x-AIFFEL-DKTC-KMWP-%EC%BB%B4%ED%94%BC%ED%8B%B0%EC%85%98)
+[튜닙 블로그 TUNiB X AIFFEL DKTC & KMWP 컴피티션 in TUNiB](https://tunib.tistory.com/entry/20220308-TUNiB-x-AIFFEL-DKTC-KMWP-%EC%BB%B4%ED%94%BC%ED%8B%B0%EC%85%98)
